@@ -72,7 +72,4 @@ mern-auth/
 - MongoDB (local or Atlas)
 - npm or yarn
 
-### Step 1: Clone the repository
-```bash
-git clone https://github.com/Kavita-Musundi/mern-auth.git
-cd mern-auth
+
